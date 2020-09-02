@@ -4,7 +4,7 @@
 
 [![TakuKobayashi's github stats](https://github-readme-stats.vercel.app/api?username=TakuKobayashi&show_icons=true&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![TakuKobayashi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakuKobayashi&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![TakuKobayashi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakuKobayashi&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TakuKobayashi/TakuKobayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
