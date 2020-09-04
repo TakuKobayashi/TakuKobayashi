@@ -15,6 +15,12 @@
 <a href="https://www.instagram.com/taptapun">
   <img align="left" alt="Taku's Instagram" width="21px" src="https://github.com/TakuKobayashi/TakuKobayashi/raw/master/assets/icons/instagram.svg" />
 </a>
+<a href="https://www.wantedly.com/users/1360474">
+  <img align="left" alt="Taku's Wantedly" width="21px" src="https://github.com/TakuKobayashi/TakuKobayashi/raw/master/assets/icons/wantedly.svg" />
+</a>
+<a href="https://qiita.com/taptappun">
+  <img align="left" alt="Taku's Qiita" width="21px" src="https://github.com/TakuKobayashi/TakuKobayashi/raw/master/assets/icons/qiita.svg" />
+</a>
 
 <br />
 <br />
