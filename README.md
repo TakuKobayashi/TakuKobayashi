@@ -28,7 +28,7 @@
 Hi, I'm Taku Kobayashi, I am a fullstack developer from Japan.
 
 - I’m currently working at [bitbank](https://bitcoinbank.co.jp/), the crypto　currency exchanges that provides a platform for trading various crypto currencies in Japan.
-- I was a Game Developer too.
+- I was a Game Developer.
 - I have developed, game, mobile app, web, server and so on.
 - I join the hackathon events very well. And I am developing hackathon event annoucing AI bot [HackathonPortal](https://twitter.com/HackathonPortal)
 
