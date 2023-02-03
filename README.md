@@ -27,12 +27,13 @@
 
 Hi, I'm Taku Kobayashi, I am a fullstack developer from Japan.
 
-- I’m currently working at [bitbank](https://bitcoinbank.co.jp/), the cryptocurrency exchange that provides a platform for trading various cryptocurrencies in Japan.
-- I was a Game Developer.
+- I’m currently working at [bitbank](https://bitcoinbank.co.jp/), the crypto　currency exchanges that provides a platform for trading various crypto currencies in Japan.
+- I was a Game Developer too.
 - I have developed, game, mobile app, web, server and so on.
-- I join the hackathon events very well.And I am developing hackthon event annoucing AI bot [HackathonPortal](https://twitter.com/HackathonPortal)
+- I join the hackathon events very well. And I am developing hackathon event annoucing AI bot [HackathonPortal](https://twitter.com/HackathonPortal)
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+NOTE: Top languages does not indicate my skill level or something like that.
+It's a github metric of which program languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=TakuKobayashi&column=7"/>
