@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm Taku Kobayashi, I am a fullstack developer from Japan.
+Hi, I'm Taku Kobayashi, I am a fullstack developer in Japan.
 
 - I’m currently working at [bitbank](https://bitcoinbank.co.jp/), the crypto　currency exchanges that provides a platform for trading various crypto currencies in Japan.
 - I was a Game Developer.
